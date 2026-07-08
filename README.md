@@ -96,5 +96,5 @@ Looking for a **Junior Python Backend Developer** position where I can contribut
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/arsenii-laponov-9ab290395/
 - GitHub: https://github.com/laponovarsenii
